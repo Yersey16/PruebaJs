@@ -1,0 +1,11 @@
+.container{
+    width: 50%;
+    margin: auto;
+    border-style: hidden;
+    border-radius: 2%;
+    padding: 10%;
+}
+
+.container-fluid{
+    width: 60%;
+}
